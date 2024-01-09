@@ -1,13 +1,13 @@
-<h1 align="left">Hi 👋! <br>My name is Alex</h1>
+<h1 align="left">Hello there 👋! <br>My name is Alex</h1>
 
-###
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajarmoszuk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajarmoszuk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
-###
+### Socials
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jarmoszuk/" target="_blank">
